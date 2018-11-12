@@ -1,0 +1,15 @@
+{
+    "cricket" : [
+    {"url" : "/static/images/cricket/Cricket.jpg", "comments" : ["Wow!","Awesome picture","Good one :)"], "likes" : 2},
+    {"url" : "/static/images/cricket/cricketers.jpg", "comments" : ["Awesome picture"], "likes" : 45},
+    {"url" : "/static/images/cricket/download.jpeg", "comments" : [], "likes" : 342},
+    {"url" : "/static/images/cricket/kit.jpeg", "comments" : ["Wow!","Awesome picture","Good one :)"], "likes" : 5},
+    {"url" : "/static/images/cricket/wickets.jpg", "comments" : ["Super!"], "likes" : 7}
+    ],
+    "football" : [
+    {"url" : "/static/images/football/ground.jpg", "comments" : ["Fav!!!!!!!!!!!","Wow!","Awesome picture","Good one :)"], "likes" : 3},
+    {"url" : "/static/images/football/player.jpeg", "comments" : ["<3<3", "Awesome"], "likes" : 132},
+    {"url" : "/static/images/football/stadium.jpeg", "comments" : ["Goals <3", "Someday!"], "likes" : 42},
+    {"url" : "/static/images/football/team.jpg", "comments" : [], "likes" : 99},
+    {"url" : "/static/images/football/world-cup.jpg", "comments" : [], "likes" : 23}]
+}
